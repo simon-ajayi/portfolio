@@ -1,0 +1,23 @@
+img {
+    float: left;
+}
+
+img.resize {
+    width: 200px;
+    height: auto;
+}
+
+Body {
+    font-family: fantasy;
+    background-color: lightblue;
+    text-align: left;
+    font-size: 25px;
+}
+
+h2 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
