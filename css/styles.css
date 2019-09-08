@@ -21,3 +21,8 @@ h2 {
 h1 {
     text-align: center;
 }
+
+.webpages {
+    color: red;
+    font-style: italic;
+}
