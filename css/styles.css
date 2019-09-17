@@ -26,3 +26,8 @@ h1 {
     color: red;
     font-style: italic;
 }
+
+.background {
+    background-color: lightblue;
+    border: 2px solid lightblue;
+}
