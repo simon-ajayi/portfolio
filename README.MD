@@ -10,7 +10,7 @@ This html has showcases what I have learned so far at Epicodus. It tells a littl
 
 ## Installation
 
-Download this respository to view.
+Click <a href="simon-ajayi.github.io/portfolio">here</a> to view my portfolio.
 
 ## Technologies Used
 Bootstrap
